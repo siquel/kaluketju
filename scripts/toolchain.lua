@@ -131,4 +131,5 @@ function toolchain(build_dir, lib_dir)
 		}
 
     configuration {}
+    return true
 end
