@@ -130,5 +130,5 @@ function toolchain(build_dir, lib_dir)
 			"-m64",
 		}
 
-
+    configuration {}
 end
